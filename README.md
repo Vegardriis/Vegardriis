@@ -24,12 +24,4 @@ I'm a Data Engineering student with a passion for software development, problem-
 
 ---
 
-## 🎯 What I'm Working On
-- Improving my skills through academic and personal projects.
-- Exploring technologies related to data engineering and software development.
 
-## 📫 Get in Touch
-- Email: <your-email>
-- LinkedIn: <your-link>
-
-Thanks for stopping by! 😊

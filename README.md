@@ -3,8 +3,6 @@
 ## About Me
 I'm a Computer Engineering student with a passion for cybersecurity, software development, problem-solving, and learning new technologies.
 
-I'm a Data Engineering student with a strong technical background and a passion for building efficient and reliable solutions.
-
 I hold a **Craft Certificate in Computer Electronics** and have professional experience as a **Communications Technician in the Royal Norwegian Air Force**, where I worked with mission-critical communication systems and technical operations.
 
 

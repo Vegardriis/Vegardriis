@@ -8,13 +8,11 @@ I'm a Data Engineering student with a passion for software development, problem-
 ## 🔧 Technologies & Tools
 
 ### Programming Languages
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_arduino_icon_130408.png" alt="Arduino" width="40" height="40"/>
-</p>
+![Java](https://img.shields.io/badge/Java-orange?logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)
 
 ### Tools & Platforms
 <p>
@@ -23,9 +21,5 @@ I'm a Data Engineering student with a passion for software development, problem-
 </p>
 
 ---
-![Java](https://img.shields.io/badge/Java-orange?logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)
+
 

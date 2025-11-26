@@ -1,4 +1,4 @@
-# Vegard Riis 👋
+# Vegard Riis
 
 ## About Me
 I'm a Data Engineering student with a passion for software development, problem-solving, and learning new technologies.

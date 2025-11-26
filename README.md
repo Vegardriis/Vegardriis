@@ -1,7 +1,7 @@
 # Vegard Riis
 
 ## About Me
-I'm a Data Engineering student with a passion for software development, problem-solving, and learning new technologies.
+I'm a Computer Engineering student with a passion for cybersecurity, software development, problem-solving, and learning new technologies.
 
 ---
 

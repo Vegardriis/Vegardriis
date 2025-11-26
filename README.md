@@ -1,11 +1,11 @@
 # Vegard Riis 👋
 
-## 👨‍💻 About Me
+## About Me
 I'm a Data Engineering student with a passion for software development, problem-solving, and learning new technologies.
 
 ---
 
-## 🔧 Technologies & Tools
+## Technologies & Tools
 
 ### Programming Languages
 ![Java](https://img.shields.io/badge/Java-orange?logo=java&logoColor=white)

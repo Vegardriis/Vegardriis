@@ -23,5 +23,9 @@ I'm a Data Engineering student with a passion for software development, problem-
 </p>
 
 ---
-
+![Java](https://img.shields.io/badge/Java-orange?logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)
 

@@ -24,4 +24,5 @@ I hold a **Craft Certificate in Computer Electronics** and have professional exp
 
 ---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vegardriis)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api?username=vegardriis&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 

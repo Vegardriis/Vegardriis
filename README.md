@@ -23,6 +23,6 @@ I hold a **Craft Certificate in Computer Electronics** and have professional exp
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?logo=azuredevops&logoColor=white)
 
 ---
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vegardriis)](https://github.com/anuraghazra/github-readme-stats)
+## Stats
 ![](https://github-readme-stats.vercel.app/api?username=vegardriis&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
